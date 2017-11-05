@@ -1,0 +1,10 @@
+# project
+**/*.iml
+**/.idea
+
+# build
+**/target/
+**/build/
+
+# run
+**/*.log
